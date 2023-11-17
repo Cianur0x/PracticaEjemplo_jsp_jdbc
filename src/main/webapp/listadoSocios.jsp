@@ -21,7 +21,7 @@
 		while (listado.next()) {
 			out.println(listado.getString("socioID") + " " + listado.getString ("nombre") + "<br>");
     }
-		
+		// jahsgd jashfd ajsdggfshafdhagfds 
 		conexion.close();
 	%>
   </body>
